@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * A C program that prints "programming is like building a multilihgual puzzle
+ * main - A C program using a puts function
+ * Return: always 0 (success)
  */
 int main(void)
 {
