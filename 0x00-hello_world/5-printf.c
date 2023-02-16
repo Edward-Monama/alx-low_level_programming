@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * A C program that prints with proper grammar
+ *main - A C program that prints with proper grammar
  * but the outcome is piece of art
+ *Return: 0 (success)
  */
 int main(void)
 {
